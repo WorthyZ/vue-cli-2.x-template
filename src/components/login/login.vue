@@ -26,7 +26,7 @@
 
 <script>
 import { Field,CellGroup,Button } from 'vant';
-import API from '@/request/api/router.js';
+import API from '@/request/api/api.js';
 import { mapState,mapMutations,mapGetters } from 'vuex';
 
 export default {

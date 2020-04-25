@@ -35,7 +35,7 @@
     CellGroup,
     Button
   } from 'vant';
-  import API from '@/request/api/router.js';
+  import API from '@/request/api/api.js';
   import {
     mapState,
     mapMutations,
@@ -95,7 +95,6 @@
     margin-right: 0;
     font-family: Arial;
     font-size: 12px;
-    background: url("../../../static/images/login/body_bg.png") #5fb6d4 repeat-x;
   }
 
   ul,
