@@ -1,7 +1,10 @@
 # A Vue Template
 
-> A Vue.js project
-> Vue-cli 2.x template
+>基于vue-cli #2.0封装axios、vuex、vue-router 模板
+>
+>A Vue.js project Vue-cli 2.x template
+>
+>Based on vue-cli # 2.0 package axios, vuex, vue-router template
 
 ## Build Setup
 
